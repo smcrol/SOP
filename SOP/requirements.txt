@@ -1,0 +1,15 @@
+matplotlib
+numpy
+nibabel
+tqdm
+open3d
+torch
+easydict
+scipy
+coloredlogs
+h5py
+GitPython
+PyYAML
+scikit_learn
+tensorboardX
+vtk_visualizer
